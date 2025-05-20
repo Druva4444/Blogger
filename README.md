@@ -6,8 +6,7 @@ This is a full-stack blog application built with **React** for the frontend, **N
 
 ---
 
-## 📁 Project Structure
----
+
 
 ## 🚀 Getting Started
 
